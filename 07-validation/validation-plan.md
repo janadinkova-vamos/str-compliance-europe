@@ -7,7 +7,7 @@
 | # | Assumption | Why it's risky |
 |---|---|---|
 | 1 | Compliance pain is bigger than pricing or messaging pain for European hosts | If not, a compliance add-on won't sell |
-| 2 | Guest-registry automation is a top-3 time sink | It's the first thing I'd build |
+| 2 | Guest registry is a top-3 time sink | Hospitable already covers it through partners (Chekin), so the question is activation, not building |
 | 3 | Hosts will pay per listing for compliance | Hosts expect compliance to be "included" |
 | 4 | Councils will partner with a host platform | A platform may be seen as on the hosts' side |
 | 5 | Good hosts will welcome a score | It could be perceived as surveillance |
@@ -24,9 +24,11 @@ _____
 
 ## First experiment
 
-**Experiment:** Guest-registry automation beta
+**Experiment:** Guest-registry partner activation
 
-**Hypothesis:** If we auto-submit guest-registry data for Spanish listings, at least 40% of eligible hosts will turn it on within 30 days, and their weekly admin time will drop measurably.
+_Updated November 2026: Hospitable already integrates guest-registry partners such as Chekin ([`market-reports`](../research/market-reports.md)), so the first experiment activates the existing integration instead of building one._
+
+**Hypothesis:** If we prompt eligible Spanish hosts to connect the guest-registry integration from their listing's compliance status, at least 40% will turn it on within 30 days, and their weekly admin time will drop measurably.
 
 **Method:** opt-in beta for Spanish customers, with a holdout of eligible hosts not yet invited.
 
@@ -56,7 +58,7 @@ _____
 
 | Quarter | Focus |
 |---|---|
-| Q1 | Discovery + guest-registry beta |
+| Q1 | Discovery + guest-registry partner activation |
 | Q2 | Compliance layer MVP in 5 Spanish regions |
 | Q3 | Portugal + GoodHost Score (private) |
 | Q4 | Council pilot (Castilla y León) + destination radar |

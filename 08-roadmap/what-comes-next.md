@@ -53,7 +53,7 @@ Each gate answers one riskiest assumption. Thresholds are proposals, to be agree
 |---|---|
 | **Method** | 8–10 interviews with small Spanish hosts (≥3 non-resident), starting with the host whose building voted against tourist rental and the host who stopped renting. Ask each to walk through the last rule or registry change they dealt with, from how they heard to what it cost. Add two questions on fees and direct booking: how they feel about Airbnb's 15.5% host-only fee, and how many bookings come from returning guests who would book direct if it were easy and legal ([opportunity H](../03-opportunities/opportunity-map.md#h-in-detail-the-home-exchange-signal)). Keep the survey open to reach n ≥ 30 |
 | **Pass** | ≥50% describe a concrete compliance event in the past 12 months with a real cost (time, bookings or money) |
-| **If it fails** | The pain is too latent to sell on its own. Reposition as a **peace-of-mind bundle** (verified guests + automated guest registry + rule alerts) and test that instead |
+| **If it fails** | The pain is too latent to sell on its own. Reposition as a **peace-of-mind bundle** (verified guests + guest registry through partners + rule alerts) and test that instead |
 
 ### Gate 2 · Does compliance predict churn? (weeks 2–4, in parallel)
 
@@ -72,7 +72,7 @@ _This is the FinWise lesson: a behaviour linked to retention doesn't prove that 
 | **Method** | 5–8 moderated sessions with the prototype. Then a **fake door** in Essentials: a "Check your listings' compliance" entry point for Spanish hosts, measuring click-through and completion of a first fix |
 | **Aha to test** | Not seeing a status, but **fixing a real at-risk issue before it causes damage** (for example syncing a missing number to Booking.com) |
 | **Pass** | ≥5 of 8 find and fix their first issue unaided in under 5 minutes; fake-door click-through high enough to justify the A/B test |
-| **If it fails** | Simplify to the single most valued job (number sync or guest registry) and retest |
+| **If it fails** | Simplify to the single most valued job (listing check or number sync) and retest |
 
 ### Gate 4 · Will they pay or upgrade? (weeks 6–8)
 

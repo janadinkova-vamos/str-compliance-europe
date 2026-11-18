@@ -6,7 +6,7 @@
 
 **We believe that** small hosts in Spain with 1–5 listings, resident or non-resident, lose bookings and peace of mind because they find out they are non-compliant only after the damage is done: nothing shows them, per listing, whether they are legally allowed to operate right now.
 
-**If we** give them a compliance layer that validates their regional registration, syncs it to every connected channel, submits guest-registry data automatically and alerts them before a listing is at risk,
+**If we** give them a compliance layer that validates their regional registration, syncs it to every connected channel, submits guest-registry data automatically (through existing partner integrations) and alerts them before a listing is at risk,
 
 **then** the share of their listings that are compliance-complete within 30 days will rise by **at least 25%**, without reducing the share of listings that are live and bookable.
 
@@ -38,6 +38,7 @@ _____
 
 - By June 2025, of 178,856 registration applications, 16,133 had been denied and **81,446 were still pending** verification. [Housing Ministry via Bolsamanía](https://www.bolsamania.com/noticias_amp/empresas/economia--registradores-aprueban-el-83-de-solicitudes-tramitadas-para-el-registro-de-alquileres-obligatorio-en-julio--20124484.html)
 - Of 271,724 tourist-home applications to the national registry by September 2025, **57,295 (21%) were denied**, for reasons such as missing licences, community statutes or premises without a change of use. [El Mundo](https://www.elmundo.es/economia/vivienda/2025/09/29/68d252f6fdddff05588b4590.html)
+- The Consumer Ministry ordered **more than 65,000 Airbnb listings removed** for missing licence numbers, not stating whether the host was private or professional, and incorrect or non-existent numbers; the Madrid High Court upheld it ([PwC NewLaw](https://www.pwc.es/es/newlaw-pulse/legaltech/obligaciones-normativas-anuncios-turisticos-espana.html))
 - The owners' federation Fevitur reports **64,000 legal tourist homes** left off the market by registry formalities, not by failing regional requirements. [Bolsamanía](https://www.bolsamania.com/noticias_print/empresas/economia--fevitur-critica-que-64000-viviendas-turisticas-legales-han-quedado-fuera-del-mercado-por-el-registro-estatal--21650428.html) _(industry figure, attributed)_
 - The number of tourist homes fell **10.7% year on year** to 341,001 in May 2026. [INE via Forbes](https://forbes.es/forbestravel/964774/la-vivienda-turistica-cae-un-107-y-marca-uno-de-los-mayores-retrocesos-historicos/)
 - Meanwhile, international tourists staying in rented homes grew **5.3%** in 2025 vs 1.9% for hotels, so each lost listing is lost demand. [INE FRONTUR, December 2025 and full year](https://www.ine.es/dyngs/Prensa/FRONTUR1225.htm)
@@ -52,7 +53,7 @@ _____
 
 | | |
 |---|---|
-| **Role (who)** | Small hosts in Spain with 1–5 tourist listings on Airbnb and Booking.com, **resident or non-resident**. Non-resident owners are analysed as a subgroup: the research shows the most intense pain there |
+| **Role (who)** | Small hosts in Spain with 1–5 tourist listings on Airbnb and Booking.com, **resident or non-resident**. Non-resident owners are analysed as a subgroup: the research shows the most intense pain there. Typical profile: occasional use, a second home, under €10,000 a year from rentals and under 20% of total income (Strategy&/PwC, 2024, industry-aligned; see [`market-reports`](../research/market-reports.md)) |
 | **Goal** | Keep earning legally and predictably, without legal or platform surprises |
 | **Friction** | No single, reliable view of whether each listing is legally allowed to operate right now |
 
@@ -75,6 +76,8 @@ _____
 1. a valid regional registration number,
 2. that number synced to every connected channel, and
 3. 100% of guest-registry (SES.Hospedajes) submissions on time.
+
+_Proposed fourth condition, to validate before the baseline is set:_ every connected channel's ad shows the mandatory information (licence number and private/professional host flag). These were the causes of the 65,000 Airbnb listings ordered removed ([`market-reports`](../research/market-reports.md)). Adding it changes the baseline, so it is decided before week 0, not mid-test.
 
 _Example: baseline 60% → target 75%. Baseline measured in week 0, before launch. +25% is the minimum lift worth building for; re-check it once the baseline is known._
 

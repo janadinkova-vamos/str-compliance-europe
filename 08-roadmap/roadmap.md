@@ -16,10 +16,10 @@ _____
 |---|---|---|---|
 | **Theme** | Prove the pain, ship the quick win | Test the bet | Expand and defend |
 | **Outcome to prove** | The pain is felt, predicts churn and has a real Aha ([4 gates](what-comes-next.md)) | Compliance visibility lifts the 30-day compliance-complete rate by ≥25% | Compliance becomes a retention moat across Iberia |
-| **Key initiatives** | Host interviews · baseline measurement · prototype test · guest-registry automation beta | Compliance Hub MVP (5 regions) · A/B test from [`hypothesis.md`](../07-validation/hypothesis.md) | Portugal · GoodHost Score (private) · safe direct booking · destination radar · council pilot |
+| **Key initiatives** | Host interviews · baseline measurement · prototype test · guest-registry partner activation | Compliance Hub MVP (5 regions) · A/B test from [`hypothesis.md`](../07-validation/hypothesis.md) | Portugal · GoodHost Score (private) · safe direct booking · destination radar · council pilot |
 | **Leading metric** | Interview pain rank; registry-beta activation within 30 days | 30-day compliance-complete rate | Compliant active listings (North Star) |
 | **Lagging metric** | Registry-related support tickets | 90-day churn of Spanish accounts | 12-month retention of Iberian accounts; revenue per listing |
-| **Gate to move on** | Validation gates 1–3 passed ([`what-comes-next`](what-comes-next.md)) **and** registry beta ≥40% activation | Hypothesis decision: **scale / pivot / kill** at week 12 | Scale only where the Spain result holds |
+| **Gate to move on** | Validation gates 1–3 passed ([`what-comes-next`](what-comes-next.md)) **and** registry beta ≥40% partner-registry activation | Hypothesis decision: **scale / pivot / kill** at week 12 | Scale only where the Spain result holds |
 
 _____
 
@@ -32,7 +32,7 @@ _____
 | **Discovery interviews** | 8–10 Spain-based hosts and managers, ≥3 non-resident owners. Already done: 2 operator interviews and 5 small-owner voices from the press ([`research/`](../research/small-owners.md)) | Pain ranking documented; persona confirmed or revised |
 | **Baseline measurement** | Current compliance-complete rate of Spanish listings, using existing data | Week-0 baseline set; +25% target re-checked |
 | **Prototype test** | Lovable prototype of the Compliance Hub ([`prototype/`](../prototype/lovable-prompt.md)), 5 moderated usability sessions | Hosts understand their status in under 30 seconds; top confusion points listed |
-| **Guest-registry automation (beta)** | Collect guest data in the booking flow, auto-submit to SES.Hospedajes, keep proof | ≥40% of eligible hosts activate within 30 days |
+| **Guest-registry partner activation** | Hospitable already integrates partners such as Chekin for SES.Hospedajes filing ([`market-reports`](../research/market-reports.md)). Promote the integration to Spanish hosts and show submission proof per listing; no in-house build | ≥40% of eligible Spanish hosts activate within 30 days |
 
 **Not doing yet:** the full compliance layer, Portugal, any council-facing product.
 
@@ -44,7 +44,8 @@ _____
 
 | Initiative | What | Done when |
 |---|---|---|
-| **Compliance Hub MVP** | Per-listing status (licence, channel sync, guest registry, building), alerts before a listing is at risk, guided fixes | Live for Andalucía, Comunidad Valenciana, Madrid, Canarias, Baleares |
+| **Compliance Hub MVP** | Per-listing status (licence, channel sync, guest registry via partners, building), alerts before a listing is at risk, guided fixes |
+| **Listing check** | Checks each channel's ad for the licence number (present and valid), the private/professional host flag and accurate details: the causes behind the 65,000 Airbnb listings ordered removed ([`market-reports`](../research/market-reports.md)) | Every MVP listing checked on every connected channel | Live for Andalucía, Comunidad Valenciana, Madrid, Canarias, Baleares |
 | **Community status** | The fourth layer of permission: community approval, limit, surcharge (up to 20%) or ban, with the date and minutes; a dispute tracker (formal demand → meeting → lawsuit) and challenge-deadline reminders ([`legal-communities`](../research/legal-communities.md)) | Every MVP listing in a residential building has a community status |
 | **Rule-change watch (AI regulatory watch)** | An AI agent monitors the BOE, regional bulletins and main-city ordinances daily, labels items *in force* or *being drafted*, and drafts plain-language summaries; a legal reviewer approves every item before hosts see it; alerts reach only the listings each rule applies to ([`ai-regulatory-watch`](../05-concept/ai-regulatory-watch.md), [`small-owners`](../research/small-owners.md)) | Precision > 80%, source-to-alert ≤ 48 h, for the 5 MVP regions and their main cities |
 | **Legal category per unit** | Each unit tagged as tourist home, tourist apartment, seasonal or work stay, with the regional stay thresholds that move a booking between regimes; bookings that change regime are flagged ([`interviews`](../research/interviews.md)) | Thresholds verified for the 5 MVP regions |
@@ -55,7 +56,7 @@ _____
 
 **Decision gate (week 12):**
 - **Scale** (≥ +25%, guardrail holds) → LATER.
-- **Pivot** (+10% to +25%) → simplify to guest registry + alerts only, re-test.
+- **Pivot** (+10% to +25%) → simplify to the listing check + alerts only, re-test.
 - **Kill** (< +10%) → shift the roadmap to platform risk: safe direct booking and the evidence vault move to NOW.
 
 _____

@@ -26,7 +26,7 @@ _Independent work. Not affiliated with or endorsed by any company mentioned. Mar
 | 8 | **The Roadmap** (Now / Next / Later) | outcome-based roadmap with decision gates · where this case stops and the next 8 weeks of validation | [`08-roadmap/`](08-roadmap/roadmap.md) · [`what comes next`](08-roadmap/what-comes-next.md) |
 | 9 | **The Go-To-Market** (Positioning & launch) | cost of inaction, positioning, messaging, pricing & packaging, launch checklist | [`09-go-to-market/`](09-go-to-market/positioning.md) · [`checklist`](09-go-to-market/launch-checklist.md) |
 | P | **The Prototype** (Lovable) | Compliance Hub prototype prompt + link | [`prototype/`](prototype/lovable-prompt.md) |
-| R | **Research** (Qualitative) | Reddit host and resident voices, coded and counted · two operator interviews · small-owner voices from the press · legal evidence on building communities · first host survey (n = 3) | [`research/`](research/qualitative-reddit.md) · [`interviews`](research/interviews.md) · [`small owners`](research/small-owners.md) · [`communities`](research/legal-communities.md) · [`survey`](research/survey-results.md) |
+| R | **Research** (Qualitative) | Reddit host and resident voices, coded and counted · two operator interviews · small-owner voices from the press · legal evidence on building communities · first host survey (n = 3) · market reports and competitive map | [`research/`](research/qualitative-reddit.md) · [`interviews`](research/interviews.md) · [`small owners`](research/small-owners.md) · [`communities`](research/legal-communities.md) · [`survey`](research/survey-results.md) · [`market reports`](research/market-reports.md) |
 
 ---
 
@@ -73,7 +73,8 @@ str-compliance-europe/
 ├── research/interviews.md                   ← operator interviews
 ├── research/small-owners.md                 ← small-owner voices (press)
 ├── research/legal-communities.md            ← building communities: law and case law
-└── research/survey-results.md               ← first host survey (n = 3, anonymised)
+├── research/survey-results.md               ← first host survey (n = 3, anonymised)
+└── research/market-reports.md               ← PwC, Brains, PwC NewLaw + competitive map
 ```
 
 ---

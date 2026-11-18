@@ -7,7 +7,8 @@
 | # | Opportunity | What it does |
 |---|---|---|
 | A | **Compliance layer** | Rules by region, city and postcode; licence lifecycle per listing; registration-number sync to every channel; pre-delisting alerts; inspection-ready audit trail |
-| B | **Guest-registry automation** | Collect ID in the booking flow, auto-submit to SES.Hospedajes (Spain) and SIBA (Portugal), keep proof |
+| B | **Guest registry, through partners** | Activate and surface the existing partner integrations (Chekin, GuestArrive) that collect ID and file with SES.Hospedajes; show submission proof per listing in the Hub. Not built in-house ([`market-reports`](../research/market-reports.md)) |
+| I | **Listing check** | Checks every channel's ad for the mandatory information: licence number (present and valid), whether the host is private or professional, and accurate details. These were the reasons behind the 65,000 Airbnb listings ordered removed ([`market-reports`](../research/market-reports.md)) |
 | C | **Tax module** | Income reports for non-resident owners; VAT-ready invoicing behind a feature flag |
 | D | **Mid-term mode, done right** | 32-day+ contracts, documented purpose of stay, deposits |
 | E | **Good-neighbour kit** | Noise sensors (decibels only), neighbour contact line, complaint log, evidence pack for building votes |
@@ -21,15 +22,18 @@ _____
 
 | Opportunity | Pain | Effort | Revenue | Election risk | Order |
 |---|---|---|---|---|---|
-| B. Guest registry | High, daily | Low–Med | Retention + add-on | None | **1** |
-| A. Compliance layer | Very high | High | Add-on per listing | None | **2** (MVP: 5 regions) |
-| C. Tax / VAT | High (foreign owners) | Medium | Partner revenue share | 10% VAT live since 1 Dec 2026; could change after the election | **3** |
-| E. Neighbour kit | Medium–High | Low | Hardware partners | None | 4 |
-| D. Mid-term mode | Medium | Medium | Expands market | Rules could tighten | 5 |
+| B. Guest registry (partners) | High, daily | Low (integration exists) | Retention | None | **1** (activate, don't build) |
+| I. Listing check | High, the direct cause of delistings | Low–Med | Retention | None | **2** |
+| A. Compliance layer | Very high | High | Add-on per listing | None | **3** (MVP: 5 regions) |
+| C. Tax / VAT | High (foreign owners) | Medium | Partner revenue share | 10% VAT live since 1 Dec 2026; could change after the election | **4** |
+| E. Neighbour kit | Medium–High | Low | Hardware partners | None | 5 |
+| D. Mid-term mode | Medium | Medium | Expands market | Rules could tighten | 6 |
 | F. Data | Strategic | Medium | Indirect | None | Parallel |
 | H. Fee-averse and mixed-use hosts | Medium (fees are felt; rules are latent) | Low–Med (builds on G and A) | Retention + direct-booking commission | Low | With G, after the validation gates |
 
-_G and H are sequenced together: direct booking in Spain is only safe once the listing is compliant (licence number and guest registry), so A and B come first._
+_G and H are sequenced together: direct booking in Spain is only safe once the listing is compliant (licence number and guest registry), so A, B and I come first._
+
+_Correction (November 2026): Hospitable already covers guest registration through partners such as Chekin, so B is about activation, not building. The product's own gap is the per-listing permission-to-operate view (A) and the listing check (I). See [`market-reports.md`](../research/market-reports.md)._
 
 **MVP regions:** Andalucía, Comunidad Valenciana, Madrid, Canarias, Baleares, where foreign-owner density, regulatory churn and protest pressure overlap.
 

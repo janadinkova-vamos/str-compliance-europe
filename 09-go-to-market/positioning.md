@@ -45,7 +45,7 @@ _____
 |---|---|
 | **For** | Small hosts in Spain with 1–5 listings, resident or not, and the managers who run homes for them |
 | **Who need** | To know, per listing, that they are legally allowed to operate right now, before a platform, a council or their neighbours decide for them |
-| **We offer** | **Hospitable Compliance Hub**: one status per listing across every connected channel, guest-registry automation, alerts on rules in progress, community status and a dated evidence vault |
+| **We offer** | **Hospitable Compliance Hub**: one status per listing across every connected channel, a listing check for mandatory ad information, guest registry through partner integrations, alerts on rules in progress, community status and a dated evidence vault |
 | **Because of** | **(1) See it once, fixed everywhere:** Hospitable already sits across Airbnb, Booking.com, Vrbo and direct, so one registration number is checked and synced on every channel. **(2) Warned before, not after:** alerts on draft rules, deadlines and community steps. **(3) Proof when it counts:** licences, applications and minutes stored with dates, exportable for an inspection or a dispute. |
 | **Despite** | Rules differ by region and change often; hosts fear surveillance; older hosts are less digital; legal content carries liability. **Mitigation:** never auto-unpublish, partner-verified rules, plain Spanish, a free status view to remove the activation barrier |
 | **Better than** | **Spreadsheets and memory:** no alerts, no channel view. **A gestoría:** slow, paid per task, reacts after the fact and doesn't see the channels. **Each platform's own checks:** each one only sees its own listing, and it can delist without warning. |
@@ -87,12 +87,13 @@ _____
 |---|---|---|---|---|
 | Sees every channel at once | No | No | No (one listing each) | **Yes** |
 | Warns before a change | No | Sometimes | No | **Yes** |
-| Guest registry automated | No | Partly | No | **Yes** |
+| Checks each ad's mandatory information | No | Sometimes | Partly, then delists | **Yes** |
+| Guest registry automated | No | Partly | No | **Yes, via partners** |
 | Dated evidence | Scattered | Yes, on request | No | **Yes, always** |
 | Cost | Free, high risk | Per task | Free | Included in paid plans |
 | Already in the host's daily tool | No | No | Yes, per platform | **Yes** |
 
-_Other host-software competitors are not compared here until their compliance features are verified one by one._
+_Host-software competitors (Avantio, Avaibook, Icnea, Smoobu, Hostaway, Guesty, Lodgify) are listed in [`market-reports.md`](../research/market-reports.md) and not compared here until their compliance features are verified one by one. Chekin is a guest-registry specialist and an existing Hospitable partner, not a competitor._
 
 _____
 
@@ -103,7 +104,7 @@ _____
 | Hospitable plan (current price) | Compliance Hub layer |
 |---|---|
 | **Essentials** · $0 | **Status view:** red / amber / green per listing and what's missing. Free, to remove activation friction. Upgrade prompt when an action is needed |
-| **Host** · $29 + $10 per extra property | **Compliance core:** number sync on every channel, guest-registry automation, rule alerts for the listing's region and city |
+| **Host** · $29 + $10 per extra property | **Compliance core:** number sync and listing check on every channel, guest registry via partner integrations, rule alerts for the listing's region and city |
 | **Professional** · $59 + $15 | Core + community status and dispute tracker · cost view (10% VAT, community and IBI surcharges) |
 | **Mogul** · $99 + $30 | Everything + licence process tracker across owners · evidence export for inspections · multi-region view |
 

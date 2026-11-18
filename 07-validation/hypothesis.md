@@ -4,7 +4,7 @@
 
 ## Slide 1 · Hypothesis statement
 
-**We believe that** small and non-resident hosts in Spain (1–5 listings) lose bookings and peace of mind because they find out they are non-compliant only after the damage is done: nothing shows them, per listing, whether they are legally allowed to operate right now.
+**We believe that** small hosts in Spain with 1–5 listings, resident or non-resident, lose bookings and peace of mind because they find out they are non-compliant only after the damage is done: nothing shows them, per listing, whether they are legally allowed to operate right now.
 
 **If we** give them a compliance layer that validates their regional registration, syncs it to every connected channel, submits guest-registry data automatically and alerts them before a listing is at risk,
 
@@ -49,7 +49,7 @@ _____
 
 | | |
 |---|---|
-| **Role (who)** | Small host or non-resident owner in Spain with 1–5 tourist listings, managing on Airbnb and Booking |
+| **Role (who)** | Small hosts in Spain with 1–5 tourist listings on Airbnb and Booking.com, **resident or non-resident**. Non-resident owners are analysed as a subgroup: the research shows the most intense pain there |
 | **Goal** | Keep earning legally and predictably, without legal or platform surprises |
 | **Friction** | No single, reliable view of whether each listing is legally allowed to operate right now |
 
@@ -81,6 +81,8 @@ _Watch metric: time to first published listing for new Spanish hosts._
 - **Scale:** ≥ +25% and the guardrail holds.
 - **Pivot:** +10% to +25%, or the watch metric worsens. Simplify, starting with guest-registry automation only.
 - **Kill:** under +10%. Compliance visibility isn't the lever, so revisit platform risk and direct booking.
+
+**Subgroup read:** report the result separately for non-resident owners. If their lift is much larger, focus go-to-market on them first.
 
 _____
 

@@ -17,7 +17,7 @@ Persona: **Marta**, a host who owns 4 tourist apartments in Spain and lists them
 ## Screens
 
 ### 1. Portfolio overview (home)
-- A headline score: "**3 of 4 listings compliance-complete**", with a progress ring.
+- A headline score: "**1 of 4 listings compliance-complete**", with a progress ring.
 - One card per listing: photo placeholder, name, city, region, and an overall status badge:
   - 🟢 **Compliant**: all checks pass
   - 🟠 **At risk**: something expires or fails within 30 days

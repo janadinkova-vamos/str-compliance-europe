@@ -4,7 +4,7 @@
 
 ## Slide 1 · Hypothesis statement
 
-**We believe that** small and non-resident hosts in Spain (1–5 listings) lose bookings and peace of mind because they can't tell whether they are legally allowed to operate across fragmented regional, municipal, building and platform rules.
+**We believe that** small and non-resident hosts in Spain (1–5 listings) lose bookings and peace of mind because they find out they are non-compliant only after the damage is done: nothing shows them, per listing, whether they are legally allowed to operate right now.
 
 **If we** give them a compliance layer that validates their regional registration, syncs it to every connected channel, submits guest-registry data automatically and alerts them before a listing is at risk,
 
@@ -51,9 +51,15 @@ _____
 |---|---|
 | **Role (who)** | Small host or non-resident owner in Spain with 1–5 tourist listings, managing on Airbnb and Booking |
 | **Goal** | Keep earning legally and predictably, without legal or platform surprises |
-| **Friction** | Fragmented, changing rules (regional licence, building community, guest registry, platform policies) and no single place to see whether each listing is compliant |
+| **Friction** | No single, reliable view of whether each listing is legally allowed to operate right now |
 
-**Problem we are solving:** hosts can't see or control their permission to operate, so they discover compliance problems only when a listing is delisted, a booking is lost or a fine arrives.
+**Problem we are solving:** Spanish hosts find out they are non-compliant only after the damage is done (a delisted listing, a lost booking or a fine), because nothing shows them their compliance status per listing before it's too late.
+
+**Causes behind the friction** (why it exists, not separate frictions):
+- Regional licences and registries that differ by region and change often
+- Building communities that can approve, limit or ban tourist use
+- Guest-registry obligations (SES.Hospedajes) with tight deadlines
+- Platform policies and registration checks that can delist a listing unilaterally
 
 _____
 

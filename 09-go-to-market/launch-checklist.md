@@ -1,6 +1,6 @@
 # Launch Checklist · Hospitable Compliance Hub (Spain)
 
-> Module 9 · Launch execution plan, same structure as the Product School launch checklist I built for a separate product-marketing project. Excel version: [`launch-checklist.xlsx`](launch-checklist.xlsx). Strategy behind it: [`positioning.md`](positioning.md).
+> Module 9 · Launch execution plan, structured as a tiered launch checklist. Excel version: [`launch-checklist.xlsx`](launch-checklist.xlsx). Strategy behind it: [`positioning.md`](positioning.md).
 
 **Product:** Hospitable Compliance Hub (Spain): permission to operate, per listing, across every channel  
 

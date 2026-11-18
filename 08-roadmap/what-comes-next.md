@@ -63,7 +63,7 @@ Each gate answers one riskiest assumption. Thresholds are proposals, to be agree
 | **Pass** | Accounts hit by a compliance delisting churn materially more (for example ≥1.5×) **and** ≥10% of Spanish listings have a gap today |
 | **If it fails** | Compliance isn't a retention lever at Hospitable. Keep it as **acquisition content** (rules pages for search and AI answers) and drop the retention bet |
 
-_This is the FinWise lesson: a behaviour linked to retention doesn't prove that causing it will improve retention. Gate 2 checks the link before we build on it._
+_The lesson: a behaviour linked to retention doesn't prove that causing it will improve retention. Gate 2 checks the link before we build on it._
 
 ### Gate 3 · Is the Aha real? (weeks 4–6)
 

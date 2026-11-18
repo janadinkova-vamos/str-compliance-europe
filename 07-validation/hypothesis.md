@@ -95,7 +95,7 @@ _____
 
 ## Step 6 · Against the data (November 2026)
 
-_The FinWise habit: state the hunch, then let the data confirm or challenge it._
+_The habit: state the hunch, then let the data confirm or challenge it._
 
 **The bet in IF / THEN / BECAUSE form:**
 

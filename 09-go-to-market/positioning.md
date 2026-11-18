@@ -1,6 +1,6 @@
 # The Go-To-Market · Positioning, Messaging and Pricing
 
-> Module 9 · How the Compliance Hub is positioned, sold and priced. Built on the Product School PMM frameworks (positioning template, messaging framework, launch tiering) that I first applied in a separate product-marketing project. The launch execution plan lives in [`launch-checklist.md`](launch-checklist.md) and [`launch-checklist.xlsx`](launch-checklist.xlsx).
+> Module 9 · How the Compliance Hub is positioned, sold and priced. Built on standard product-marketing frameworks: positioning template, messaging framework and launch tiering. The launch execution plan lives in [`launch-checklist.md`](launch-checklist.md) and [`launch-checklist.xlsx`](launch-checklist.xlsx).
 
 _Pricing and figures below are proposals for a case study, not Hospitable's plans. Hospitable's current pricing is quoted from its [help centre](https://help.hospitable.com/en/articles/4596748-hospitable-pricing-subscription-costs) (November 2026)._
 

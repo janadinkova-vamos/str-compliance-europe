@@ -22,7 +22,8 @@ _Independent work. Not affiliated with or endorsed by any company mentioned. Mar
 | 4 | **The Scenarios** (Political risk) | Spanish election scenarios and the hotel "level playing field" | [`04-scenarios/`](04-scenarios/scenarios.md) |
 | 5 | **The Concept** (GoodHost Score) | host score + cap-and-waitlist engine for saturated areas | [`05-concept/`](05-concept/goodhost-score.md) |
 | 6 | **The Expansion** (Emerging destinations) | growth outside saturated cities, aligned with Spain Tourism 2030 | [`06-expansion/`](06-expansion/emerging-destinations.md) |
-| 7 | **The Validation** (Discovery & pilot) | interviews, data pulls, pilot design and success metrics | [`07-validation/`](07-validation/validation-plan.md) |
+| 7 | **The Validation** (Discovery & pilot) | formal hypothesis, interviews, data pulls, pilot design and success metrics | [`07-validation/`](07-validation/hypothesis.md) |
+| R | **Research** (Qualitative) | Reddit host and resident voices, coded and counted | [`research/`](research/qualitative-reddit.md) |
 
 ---
 
@@ -50,7 +51,9 @@ str-compliance-europe/
 ├── 04-scenarios/scenarios.md                ← M4: election + level-playing-field scenarios
 ├── 05-concept/goodhost-score.md             ← M5: GoodHost Score + cap-and-waitlist
 ├── 06-expansion/emerging-destinations.md    ← M6: emerging destinations
-└── 07-validation/validation-plan.md         ← M7: discovery, pilot and metrics
+├── 07-validation/hypothesis.md              ← M7: formal hypothesis (Hypothesis Builder)
+├── 07-validation/validation-plan.md         ← M7: discovery, pilot and metrics
+└── research/qualitative-reddit.md           ← qualitative research
 ```
 
 ---

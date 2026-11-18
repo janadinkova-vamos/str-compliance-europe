@@ -4,7 +4,7 @@
 
 Jana Alexandrova · Product case study · November 2026
 
-**Presentation:** _pitch.html (coming soon)_ · **Prototype:** _GoodHost Score (coming soon)_
+**Presentation:** _pitch.html (coming soon)_ · **Prototype:** _Compliance Hub on Lovable (link coming soon)_
 
 This repo is a product case study on the European short-term rental (STR) market, starting with Spain and Portugal, written from the point of view of a Senior Product Manager at a host-software company. One folder per module; this README is **The Story** that ties them together.
 
@@ -23,6 +23,8 @@ _Independent work. Not affiliated with or endorsed by any company mentioned. Mar
 | 5 | **The Concept** (GoodHost Score) | host score + cap-and-waitlist engine for saturated areas | [`05-concept/`](05-concept/goodhost-score.md) |
 | 6 | **The Expansion** (Emerging destinations) | growth outside saturated cities, aligned with Spain Tourism 2030 | [`06-expansion/`](06-expansion/emerging-destinations.md) |
 | 7 | **The Validation** (Discovery & pilot) | formal hypothesis, interviews, data pulls, pilot design and success metrics | [`07-validation/`](07-validation/hypothesis.md) |
+| 8 | **The Roadmap** (Now / Next / Later) | outcome-based roadmap with decision gates | [`08-roadmap/`](08-roadmap/roadmap.md) |
+| P | **The Prototype** (Lovable) | Compliance Hub prototype prompt + link | [`prototype/`](prototype/lovable-prompt.md) |
 | R | **Research** (Qualitative) | Reddit host and resident voices, coded and counted | [`research/`](research/qualitative-reddit.md) |
 
 ---
@@ -53,6 +55,8 @@ str-compliance-europe/
 ├── 06-expansion/emerging-destinations.md    ← M6: emerging destinations
 ├── 07-validation/hypothesis.md              ← M7: formal hypothesis (Hypothesis Builder)
 ├── 07-validation/validation-plan.md         ← M7: discovery, pilot and metrics
+├── 08-roadmap/roadmap.md                    ← M8: Now / Next / Later roadmap
+├── prototype/lovable-prompt.md              ← Compliance Hub prototype (Lovable)
 └── research/qualitative-reddit.md           ← qualitative research
 ```
 

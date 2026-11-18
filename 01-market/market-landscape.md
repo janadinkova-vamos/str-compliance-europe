@@ -22,8 +22,22 @@ _____
 | State | Supreme Court ruling 620/2026 (May 2026) annulled the national registry (NRUA); platform data duties survive. [Source](https://www.costaluzlawyers.com/important-update-new-short-term-rental-registration-requirements-in-spain-starting-july-2025/) | Hosts spent a year getting a number that no longer exists |
 | State | Proposed 21% VAT on stays under 30 days (most are VAT-exempt today). [Source](https://www.vatupdate.com/2026/07/29/government-plans-21-vat-on-short-term-tourist-rentals/) | Depends on the 29 November 2026 election |
 | State | €64M fine on Airbnb over 65,000+ non-compliant listings; court refused to suspend payment. [Source](https://www.idealista.com/en/news/node/890877) | Platforms over-correct, compliant hosts get caught in delistings |
-| Building | Since April 2025, a 3/5 majority of owners can approve, limit or ban tourist use, and add up to a 20% surcharge on community fees. [Source](https://www.cronista.com/espana/actualidad-es/se-despide-la-ley-de-alquileres-las-comunidades-podran-vetar-tu-piso-turistico-y-subirte-la-cuota-hasta-un-20-tras-la-nueva-reforma) | Neighbours become a regulator |
+| Building | Outside Catalonia, since April 2025 a new tourist home needs the community's express prior approval, and a 3/5 majority can approve, limit or ban tourist use and add up to a 20% surcharge on community fees. [Source](https://www.cronista.com/espana/actualidad-es/se-despide-la-ley-de-alquileres-las-comunidades-podran-vetar-tu-piso-turistico-y-subirte-la-cuota-hasta-un-20-tras-la-nueva-reforma) In Catalonia the Catalan Civil Code applies instead: a ban needs 4/5 (art. 553-11). [Source](https://noticias.juridicas.com/actualidad/noticias/20123-los-administradores-de-fincas-aclaran-que-la-nueva-ley-de-comunidades-de-propietarios-no-tiene-efectos-en-cataluna/) | Neighbours become a regulator, and even this layer varies by region. See [`research/legal-communities.md`](../research/legal-communities.md) |
 | City | Barcelona will not renew its ~10,000 tourist licences after November 2028, backed by the Constitutional Court. [Source](https://www.catalannews.com/society-science/item/barcelona-mayor-welcomes-constitutional-court-ruling-on-tourist-apartment-restrictions) | Template for other cities |
+
+### Who can change what
+
+The Supreme Court annulled the national registry because the State lacked competence: tourism and housing belong to the regions. [Hosteltur](https://www.hosteltur.com/176386_tribunal-supremo-anula-el-registro-unico-de-arrendamientos-por-invadir-competencias-autonomicas.html) So the 29 November election can change state levers, but not regional licences.
+
+| Level | Controls | Can the next national government change it? |
+|---|---|---|
+| **EU** | Registration-number and platform data-sharing rules (Reg. 2024/1028); one registration procedure per home | No |
+| **State** | Civil law: building communities (LPH, except Catalonia) and seasonal rental (LAU) · tax (VAT, non-resident income tax) · guest registry (SES.Hospedajes) · digital single window and platform data | **Yes** |
+| **Region (17)** | Tourism law: licences, registries, requirements, stay thresholds, inspections and fines · Catalonia also its own civil law for communities | No: regional parliaments decide |
+| **City** | Zoning, moratoriums, retroactive local rules, phase-outs (Barcelona 2028) | No |
+| **Building** | Community approval, limits, bans and surcharges, under the State or Catalan civil law | Indirectly, by changing the LPH |
+
+**Implication:** a rules engine organised by region and city, with state levers as a separate, switchable module. The election changes content, not architecture.
 
 **Political context.** The snap general election on 29 November 2026 was triggered by Parliament rejecting the government's housing decrees. [Source](https://www.latintimes.com/spain-snap-election-sanchez-housing-vote-601009) See [`04-scenarios`](../04-scenarios/scenarios.md).
 

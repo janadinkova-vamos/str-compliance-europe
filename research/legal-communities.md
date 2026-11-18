@@ -2,7 +2,9 @@
 
 > The fourth layer of permission. Besides the region, the council and the platform, **the neighbours** now decide whether a home in a residential building can operate, and since April 2025 they decide first. Complements [`small-owners.md`](small-owners.md) and [`interviews.md`](interviews.md).
 
-_Summary of two secondary sources. Not legal advice. Check the BOE text and newer case law before relying on any point._
+_Summary of secondary sources. Not legal advice. Check the BOE text and newer case law before relying on any point._
+
+> **Scope warning: Catalonia is different.** Everything below about the Horizontal Property Law (LPH) and LO 1/2025 applies to Spain **outside Catalonia**. Catalonia has its own civil law: building communities are governed by Book V of the Catalan Civil Code (arts. 553-1 to 553-59), not by the LPH. See the Catalonia section at the end.
 
 _____
 
@@ -41,9 +43,20 @@ Popular explainer, with no case law or expert quotes. It adds the post-reform pi
 
 _____
 
+## Catalonia · a different community regime
+
+- The Barcelona-Lleida association of property administrators stated that the LO 1/2025 reform **does not apply in Catalonia**, because it amends the LPH and Catalonia is governed by its own Civil Code. [Noticias Jurídicas](https://noticias.juridicas.com/actualidad/noticias/20123-los-administradores-de-fincas-aclaran-que-la-nueva-ley-de-comunidades-de-propietarios-no-tiene-efectos-en-cataluna/)
+- Catalan communities have been able to ban tourist homes since 2006 (art. 553-11, Book V), but they need **four-fifths** of owners and quotas, not three-fifths. [Sepin](https://blog.sepin.es/viviendas-usos-turisticos-comunidades-propietarios-catalunya)
+- Land registrars in Catalonia already deny registration where a statutory ban is recorded under art. 553-11 (DGSJFP resolutions published in the BOE, 2025–2026).
+
+**Takeaway:** the building layer is not national either. The majority needed, the prior-approval rule, the surcharge and the transitional protection depend on which civil law applies to the building.
+
+_____
+
 ## Implications for the product
 
-1. **The community is an entry condition.** For a new host, community approval comes before the regional or municipal licence. The Compliance Hub checklist starts there: minutes, votes and quotas, and date. → "Community status" added to the Compliance Hub scope in the [roadmap](../08-roadmap/roadmap.md).
+0. **Community rules by civil-law regime.** The rules engine needs a community module per regime (LPH for most of Spain, Catalan Civil Code for Catalonia), not one national rule.
+1. **The community is an entry condition.** Outside Catalonia, for a new host, community approval comes before the regional or municipal licence. The Compliance Hub checklist starts there: minutes, votes and quotas, and date. → "Community status" added to the Compliance Hub scope in the [roadmap](../08-roadmap/roadmap.md).
 2. **Two paths by start date.** Started before 3 April 2025 with a regional registration → the product stores and surfaces that proof (transitional protection). Started after → express approval required. This fits the "legal category per unit" field.
 3. **Dates decide outcomes.** Asturias protected an owner because his applications predated the vote. The **dated evidence vault** must store the date of every application, not just the final licence. This confirms Jon Goitia's point in [`interviews.md`](interviews.md).
 4. **Staged alerts.** Conflicts move through steps that can be tracked: formal demand → meeting authorisation → lawsuit. If the host logs the demand, the product shows what comes next and when to see a lawyer. It flags the step; it doesn't advise.

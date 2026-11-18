@@ -58,7 +58,7 @@ str-compliance-europe/
 ├── 07-validation/hypothesis.md              ← M7: formal hypothesis (Hypothesis Builder)
 ├── 07-validation/validation-plan.md         ← M7: discovery, pilot and metrics
 ├── 08-roadmap/roadmap.md                    ← M8: Now / Next / Later roadmap
-├── 08-roadmap/what-comes-next.md          ← M8: where the case stops + validation gates
+├── 08-roadmap/what-comes-next.md           ← M8: where the case stops + validation gates
 ├── 09-go-to-market/positioning.md          ← M9: positioning, messaging, pricing
 ├── 09-go-to-market/launch-checklist.md     ← M9: launch checklist (+ .xlsx)
 ├── prototype/lovable-prompt.md              ← Compliance Hub prototype (Lovable)

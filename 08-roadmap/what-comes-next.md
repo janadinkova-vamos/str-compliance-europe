@@ -51,7 +51,7 @@ Each gate answers one riskiest assumption. Thresholds are proposals, to be agree
 
 | | |
 |---|---|
-| **Method** | 8–10 interviews with small Spanish hosts (≥3 non-resident), starting with the host whose building voted against tourist rental and the host who stopped renting. Ask each to walk through the last rule or registry change they dealt with, from how they heard to what it cost. Keep the survey open to reach n ≥ 30 |
+| **Method** | 8–10 interviews with small Spanish hosts (≥3 non-resident), starting with the host whose building voted against tourist rental and the host who stopped renting. Ask each to walk through the last rule or registry change they dealt with, from how they heard to what it cost. Add two questions on fees and direct booking: how they feel about Airbnb's 15.5% host-only fee, and how many bookings come from returning guests who would book direct if it were easy and legal ([opportunity H](../03-opportunities/opportunity-map.md#h-in-detail-the-home-exchange-signal)). Keep the survey open to reach n ≥ 30 |
 | **Pass** | ≥50% describe a concrete compliance event in the past 12 months with a real cost (time, bookings or money) |
 | **If it fails** | The pain is too latent to sell on its own. Reposition as a **peace-of-mind bundle** (verified guests + automated guest registry + rule alerts) and test that instead |
 

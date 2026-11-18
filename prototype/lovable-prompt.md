@@ -1,5 +1,7 @@
 # Prototype · Lovable Prompt
 
+> **Live prototype:** https://staywise-spain-rental-checks.lovable.app (mock data only)
+>
 > Paste everything below the line into a new Lovable project. It builds a clickable prototype of the **Compliance Hub**, the treatment tested in [`07-validation/hypothesis.md`](../07-validation/hypothesis.md). Mock data only: no real APIs, no real personal data.
 
 ---

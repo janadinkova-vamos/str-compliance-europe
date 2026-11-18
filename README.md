@@ -4,7 +4,7 @@
 
 Jana Alexandrova · Product case study · November 2026
 
-**Presentation:** _pitch.html (coming soon)_ · **Prototype:** _Compliance Hub on Lovable (link coming soon)_
+**Presentation:** _pitch.html (coming soon)_ · **Prototype:** [Compliance Hub on Lovable](https://staywise-spain-rental-checks.lovable.app)
 
 This repo is a product case study on the European short-term rental (STR) market, starting with Spain and Portugal, written from the point of view of a Senior Product Manager at a host-software company. One folder per module; this README is **The Story** that ties them together.
 
@@ -25,7 +25,7 @@ _Independent work. Not affiliated with or endorsed by any company mentioned. Mar
 | 7 | **The Validation** (Discovery & pilot) | formal hypothesis, interviews, data pulls, pilot design and success metrics | [`07-validation/`](07-validation/hypothesis.md) |
 | 8 | **The Roadmap** (Now / Next / Later) | outcome-based roadmap with decision gates · where this case stops and the next 8 weeks of validation | [`08-roadmap/`](08-roadmap/roadmap.md) · [`what comes next`](08-roadmap/what-comes-next.md) |
 | 9 | **The Go-To-Market** (Positioning & launch) | cost of inaction, positioning, messaging, pricing & packaging, launch checklist | [`09-go-to-market/`](09-go-to-market/positioning.md) · [`checklist`](09-go-to-market/launch-checklist.md) |
-| P | **The Prototype** (Lovable) | Compliance Hub prototype prompt + link | [`prototype/`](prototype/lovable-prompt.md) |
+| P | **The Prototype** (Lovable) | Compliance Hub prototype prompt + [live prototype](https://staywise-spain-rental-checks.lovable.app) | [`prototype/`](prototype/lovable-prompt.md) |
 | R | **Research** (Qualitative) | Reddit host and resident voices, coded and counted · two operator interviews · small-owner voices from the press · legal evidence on building communities · first host survey (n = 3) · market reports and competitive map | [`research/`](research/qualitative-reddit.md) · [`interviews`](research/interviews.md) · [`small owners`](research/small-owners.md) · [`communities`](research/legal-communities.md) · [`survey`](research/survey-results.md) · [`market reports`](research/market-reports.md) |
 
 ---

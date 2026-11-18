@@ -33,7 +33,7 @@ _____
 
 **The refined framing:** the opportunity isn't "compliance software". It's **protecting a host's income and peace of mind**, with compliance as the engine underneath.
 
-_Survey detail (anonymised): 3 owners with one home each, renting for 1–3 years, mainly on Airbnb, no management software; Madrid and Comunitat Valenciana; one stopped renting in the past year. Results are a signal to validate, not a conclusion._
+_Survey detail ([full results](../research/survey-results.md), anonymised): 3 owners with one home each, renting for 1–3 years, mainly on Airbnb, no management software; Madrid and Comunitat Valenciana; one stopped renting in the past year. Results are a signal to validate, not a conclusion._
 
 _____
 

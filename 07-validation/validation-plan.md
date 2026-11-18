@@ -16,7 +16,7 @@ _____
 
 ## Discovery
 
-- **Interviews (n = 15–20):** Spanish PMs, foreign owners, rural hosts. Key questions: _What took most of your admin time last month? Have you lost a listing or a booking to a registration problem? What would you pay to never think about it again?_
+- **Interviews (n = 8–10 in the first gate, up to 15–20 overall):** small Spanish hosts and managers, foreign owners, rural hosts. The gated plan is in [`what-comes-next.md`](../08-roadmap/what-comes-next.md). Key questions: _What took most of your admin time last month? Have you lost a listing or a booking to a registration problem? What would you pay to never think about it again?_
 - **Data pulls:** delisting and registration-error rate in Spain in 2026; direct-booking share and repeat-guest rate (Spain, Portugal); listing growth outside the top 20 cities vs inside.
 - **Council conversations (n = 3–5):** a tourism board in Castilla y León, one coastal municipality near saturation.
 

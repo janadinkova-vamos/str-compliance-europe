@@ -40,7 +40,7 @@ _____
 - Of 271,724 tourist-home applications to the national registry by September 2025, **57,295 (21%) were denied**, for reasons such as missing licences, community statutes or premises without a change of use. [El Mundo](https://www.elmundo.es/economia/vivienda/2025/09/29/68d252f6fdddff05588b4590.html)
 - The owners' federation Fevitur reports **64,000 legal tourist homes** left off the market by registry formalities, not by failing regional requirements. [Bolsamanía](https://www.bolsamania.com/noticias_print/empresas/economia--fevitur-critica-que-64000-viviendas-turisticas-legales-han-quedado-fuera-del-mercado-por-el-registro-estatal--21650428.html) _(industry figure, attributed)_
 - The number of tourist homes fell **10.7% year on year** to 341,001 in May 2026. [INE via Forbes](https://forbes.es/forbestravel/964774/la-vivienda-turistica-cae-un-107-y-marca-uno-de-los-mayores-retrocesos-historicos/)
-- Meanwhile, international tourists staying in rented homes grew **6.3%** (Jan–Nov 2025) vs 1.6% for hotels, so each lost listing is lost demand. [INE FRONTUR](https://www.ine.es/dyngs/Prensa/FRONTUR1125.pdf)
+- Meanwhile, international tourists staying in rented homes grew **5.3%** in 2025 vs 1.9% for hotels, so each lost listing is lost demand. [INE FRONTUR, December 2025 and full year](https://www.ine.es/dyngs/Prensa/FRONTUR1225.htm)
 
 **Reconciliation:** the qualitative pain (rules are confusing, slow and catch legal hosts) is confirmed by hard numbers: tens of thousands of legal homes blocked or stuck by formalities while demand grows. One adjustment from the qual data: for hosts in general, platform risk is the louder pain, so the bet focuses on **Spain-based and non-resident owners**, where compliance is the confirmed #1.
 
@@ -87,6 +87,27 @@ _Watch metric: time to first published listing for new Spanish hosts._
 - **Kill:** under +10%. Compliance visibility isn't the lever, so revisit platform risk and direct booking.
 
 **Subgroup read:** report the result separately for non-resident owners. If their lift is much larger, focus go-to-market on them first.
+
+_____
+
+## Step 6 · Against the data (November 2026)
+
+_The FinWise habit: state the hunch, then let the data confirm or challenge it._
+
+**The bet in IF / THEN / BECAUSE form:**
+
+> **IF** we show new Spanish hosts their per-listing compliance status and guide them to fix their first real issue,
+> **THEN** the share of their listings that are compliance-complete within 30 days **WILL** rise by at least 25% (relative),
+> **BECAUSE** hosts don't lack the will to comply, they lack visibility before the damage happens,
+> **MEASURED WITH** the A/B test and 12-week decision window above, with the live-and-bookable guardrail.
+
+**Where it sits in the funnel:** **Retention** (compliance-driven delistings stop properties counting as active, so the account churns) and **Revenue** (free Essentials users have no moment of need that triggers an upgrade).
+
+**What the first host survey confirmed** ([results](../research/survey-results.md), n = 3): the risk is real. 2 of 3 hosts were hit by a rule change in the past year, one by a neighbours' vote, and 2 of 3 would pay €10–20 per home per month.
+
+**What it challenged:** the assumption that compliance is the felt pain. None named it as their main worry; they worried about reviews, guests and operations, and rated their own legal confidence 4–5 out of 5.
+
+**Refinement:** compliance looks like a **latent pain**. The Aha must be a **protected booking** (a real issue fixed before it causes damage), not a status screen, and positioning leads with income and peace of mind. With n = 3 this is a signal, not a conclusion: it becomes Gate 1 in [`what-comes-next.md`](../08-roadmap/what-comes-next.md), and Gate 2 checks with Hospitable's data whether compliance problems actually predict churn before we rely on the retention link.
 
 _____
 

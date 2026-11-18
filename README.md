@@ -26,20 +26,27 @@ _Independent work. Not affiliated with or endorsed by any company mentioned. Mar
 | 8 | **The Roadmap** (Now / Next / Later) | outcome-based roadmap with decision gates · where this case stops and the next 8 weeks of validation | [`08-roadmap/`](08-roadmap/roadmap.md) · [`what comes next`](08-roadmap/what-comes-next.md) |
 | 9 | **The Go-To-Market** (Positioning & launch) | cost of inaction, positioning, messaging, pricing & packaging, launch checklist | [`09-go-to-market/`](09-go-to-market/positioning.md) · [`checklist`](09-go-to-market/launch-checklist.md) |
 | P | **The Prototype** (Lovable) | Compliance Hub prototype prompt + link | [`prototype/`](prototype/lovable-prompt.md) |
-| R | **Research** (Qualitative) | Reddit host and resident voices, coded and counted · two operator interviews · small-owner voices from the press · legal evidence on building communities | [`research/`](research/qualitative-reddit.md) · [`interviews`](research/interviews.md) · [`small owners`](research/small-owners.md) · [`communities`](research/legal-communities.md) |
+| R | **Research** (Qualitative) | Reddit host and resident voices, coded and counted · two operator interviews · small-owner voices from the press · legal evidence on building communities · first host survey (n = 3) | [`research/`](research/qualitative-reddit.md) · [`interviews`](research/interviews.md) · [`small owners`](research/small-owners.md) · [`communities`](research/legal-communities.md) · [`survey`](research/survey-results.md) |
 
 ---
 
 ## The Story
 
-**Thesis:** European STR hosts are no longer limited by demand but by permission to operate. A compliance layer that keeps hosts legal by default, rewards good operators and helps destinations grow responsibly is the most defensible position a host platform can hold, whoever governs.
+**The friction.** Walking around Valencia, I'd seen garages turned into tourist flats. Spain welcomed nearly 97 million international tourists in 2025 ([INE](https://www.ine.es/dyngs/Prensa/en/FRONTUR1225.htm)), and in Valencia you could see the debate over tourism and housing play out on the same street. Before applying to Hospitable, I wanted to understand what running a short-term rental actually took and whether there was a problem I'd want to work on.
 
-- **One friction.** _To write: the hardest thing to untangle in this case (for example, that Spain's national registry was annulled while platform data duties survived, so "what does legal mean?" has no single answer)._
-- **One Aha.** _To write: the insight that changed the strategy (for example, fragmentation is permanent by design, so it is the product opportunity, not a temporary nuisance)._
-- **Takeaways.**
-  1. _To write._
-  2. _To write._
-  3. _To write._
+I started with the headlines and a hunch. I'd heard that some guests were finding hosts on Google Maps and booking directly. I thought there might be an opportunity in keeping those bookings on-platform. The more I read, the more I kept coming back to a question that comes before any booking. How does a host know whether they can still rent out their property next month? The answer can depend on rules set by the EU, the state, the region, the city and the building itself.
+
+**The aha moment.** I came across the account of a host in A Coruña who said he'd had a licence since 2019. He said he lost it after the city changed its rules and that he'd received no warning. His flat stayed empty. What stuck with me was how late he found out. That gave me a problem I could design for. When a rule changes, hosts need to know whether it affects their property while they still have time to act.
+
+**What surprised me.** I sent a short survey to three hosts I know. Two said a rule change had affected them in the past year. One said her building had voted against tourist rentals, and one had stopped renting altogether. Yet when I asked what worried them most, they talked about reviews, guests and day-to-day operations. That changed how I'd position the product. A host already has enough to check. I'd want the first screen to answer one question in seconds. Is there anything I need to do to keep taking bookings? ([survey results](research/survey-results.md))
+
+**What I built.** I built a working prototype of a Compliance Hub with an AI-assisted regulatory watch. I focused on one workflow. Show the host what changed, which property it might affect, and what to check next. Three answers aren't proof, but they were enough to prototype that workflow and test it properly. The prototype gives me a way to test whether it saves hosts time and helps them act sooner.
+
+**What I'd do next.** I'd interview eight to ten hosts, starting with the host whose building voted against tourist rentals and the one who stopped renting last year. I'd ask each to walk me through the last change they dealt with, from how they heard about it to what they did. Then I'd measure how many pilot properties have completed the requirements we can verify and how long hosts take to resolve an outstanding action. I'd use that baseline to test the free status view and see whether ongoing monitoring gives hosts on Essentials a reason to upgrade. The full gated plan is in [`what-comes-next.md`](08-roadmap/what-comes-next.md).
+
+**Why I'd work on this.** At ASISA, I designed health insurance products for international students and residents applying for Spanish visas and residency. The requirement created demand. What customers needed from us was practical. They wanted to know which insurance to buy and when they'd have the certificate they needed for their application.
+
+I see a similar opportunity at Hospitable. A host shouldn't have to spend Sunday evening reading a municipal ordinance to work out what it means for one flat. If Hospitable can give them a clear answer about their property while there's still time to act, that's time back for the host and a reason to trust the product with more of their business.
 
 ---
 
@@ -65,7 +72,8 @@ str-compliance-europe/
 ├── research/qualitative-reddit.md           ← qualitative research (Reddit)
 ├── research/interviews.md                   ← operator interviews
 ├── research/small-owners.md                 ← small-owner voices (press)
-└── research/legal-communities.md            ← building communities: law and case law
+├── research/legal-communities.md            ← building communities: law and case law
+└── research/survey-results.md               ← first host survey (n = 3, anonymised)
 ```
 
 ---

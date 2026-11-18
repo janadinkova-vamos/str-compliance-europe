@@ -43,6 +43,8 @@ _____
 | Initiative | What | Done when |
 |---|---|---|
 | **Compliance Hub MVP** | Per-listing status (licence, channel sync, guest registry, building), alerts before a listing is at risk, guided fixes | Live for Andalucía, Comunidad Valenciana, Madrid, Canarias, Baleares |
+| **Legal category per unit** | Each unit tagged as tourist home, tourist apartment, seasonal or work stay, with the regional stay thresholds that move a booking between regimes; bookings that change regime are flagged ([`interviews`](../research/interviews.md)) | Thresholds verified for the 5 MVP regions |
+| **Dated evidence vault** | Licences, applications, community minutes and certificates stored with timestamps, exportable for an inspection or a dispute | Every MVP listing has its documents and dates on file |
 | **Regional rules content** | Partner-verified rules per region, with timestamps and escalation to a professional | 5 regions covered, reviewed by a legal partner |
 | **The A/B test** | Hypothesis from [`hypothesis.md`](../07-validation/hypothesis.md) | 12-week read: scale, pivot or kill |
 
@@ -75,3 +77,5 @@ _____
 | Interviews show compliance isn't #1 | NOW gate fails | Lead with platform risk: direct booking + evidence vault |
 | Legal liability for wrong rules content | Any incorrect rule reported | Partner-verified content, timestamps, disclaimers, escalation path |
 | Hosts see the Hub as surveillance | Low activation, negative feedback in tests | Frame as protection; never auto-unpublish; host stays in control |
+| **Defensive hosts churn if tenant law changes** (owners using tourist rental as protection against tenant law, not for yield) | Faster-eviction rules in a new government's programme; Spanish churn not linked to compliance | Track churn reasons separately; offer mid-term and long-term modes so hosts can switch regime without leaving ([`interviews`](../research/interviews.md)) |
+| **Rural seasonality** makes tourist-only portfolios unprofitable | Rural occupancy concentrated in July–August | Seasonal mode switching (tourist in peak, mid-term off-peak) with compliance handled in both |

@@ -25,7 +25,7 @@ _Independent work. Not affiliated with or endorsed by any company mentioned. Mar
 | 7 | **The Validation** (Discovery & pilot) | formal hypothesis, interviews, data pulls, pilot design and success metrics | [`07-validation/`](07-validation/hypothesis.md) |
 | 8 | **The Roadmap** (Now / Next / Later) | outcome-based roadmap with decision gates | [`08-roadmap/`](08-roadmap/roadmap.md) |
 | P | **The Prototype** (Lovable) | Compliance Hub prototype prompt + link | [`prototype/`](prototype/lovable-prompt.md) |
-| R | **Research** (Qualitative) | Reddit host and resident voices, coded and counted | [`research/`](research/qualitative-reddit.md) |
+| R | **Research** (Qualitative) | Reddit host and resident voices, coded and counted · two operator interviews | [`research/`](research/qualitative-reddit.md) · [`interviews`](research/interviews.md) |
 
 ---
 
@@ -57,7 +57,8 @@ str-compliance-europe/
 ├── 07-validation/validation-plan.md         ← M7: discovery, pilot and metrics
 ├── 08-roadmap/roadmap.md                    ← M8: Now / Next / Later roadmap
 ├── prototype/lovable-prompt.md              ← Compliance Hub prototype (Lovable)
-└── research/qualitative-reddit.md           ← qualitative research
+├── research/qualitative-reddit.md           ← qualitative research (Reddit)
+└── research/interviews.md                   ← operator interviews
 ```
 
 ---

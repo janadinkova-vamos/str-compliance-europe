@@ -70,3 +70,15 @@ Track and log these events with timestamp, persona and listing:
 - Language: English UI, with a language toggle stub (EN / ES) that only switches the header labels.
 - Fully responsive; must work well on mobile (hosts check on the go).
 - Footer: "Concept prototype for a product case study. Mock data only. Not affiliated with any company."
+
+_____
+
+## Follow-up prompt · Rule watch (AI regulatory watch)
+
+> Sent as a second prompt to the same Lovable project, to show the [AI regulatory watch](../05-concept/ai-regulatory-watch.md) from the host's side.
+
+Adds a **Rule watch** section to the Alerts tab with two mock alerts, each showing status, the listing it applies to, what changes, what to do, a key date, the source and "Verified by legal partner · [date]":
+- **Being drafted · heads-up** — a draft city rule in Valencia that would affect Ático Malvarrosa; no action yet, check that licence and application dates are saved.
+- **In force · action needed** — the registration number must appear on every channel; Casa Albaicín is missing it on Booking.com; "Fix now" opens the existing channel-sync fix.
+
+Plus a "nothing else changed for your other listings this month" line, an "AI-detected, legal-partner reviewed, not legal advice" note, Rule watch badges on affected listing cards, Spanish translations, and four tracked events: `rule_alert_viewed`, `rule_alert_followed`, `rule_alert_dismissed`, `rule_alert_fix_clicked`. All rules shown are example data.

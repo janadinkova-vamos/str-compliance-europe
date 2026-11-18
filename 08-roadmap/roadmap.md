@@ -27,7 +27,7 @@ _____
 
 | Initiative | What | Done when |
 |---|---|---|
-| **Discovery interviews** | 8–10 Spain-based hosts and managers, ≥3 non-resident owners | Pain ranking documented; persona confirmed or revised |
+| **Discovery interviews** | 8–10 Spain-based hosts and managers, ≥3 non-resident owners. Already done: 2 operator interviews and 5 small-owner voices from the press ([`research/`](../research/small-owners.md)) | Pain ranking documented; persona confirmed or revised |
 | **Baseline measurement** | Current compliance-complete rate of Spanish listings, using existing data | Week-0 baseline set; +25% target re-checked |
 | **Prototype test** | Lovable prototype of the Compliance Hub ([`prototype/`](../prototype/lovable-prompt.md)), 5 moderated usability sessions | Hosts understand their status in under 30 seconds; top confusion points listed |
 | **Guest-registry automation (beta)** | Collect guest data in the booking flow, auto-submit to SES.Hospedajes, keep proof | ≥40% of eligible hosts activate within 30 days |
@@ -43,8 +43,10 @@ _____
 | Initiative | What | Done when |
 |---|---|---|
 | **Compliance Hub MVP** | Per-listing status (licence, channel sync, guest registry, building), alerts before a listing is at risk, guided fixes | Live for Andalucía, Comunidad Valenciana, Madrid, Canarias, Baleares |
+| **Community status** | The fourth layer of permission: community approval, limit, surcharge (up to 20%) or ban, with the date and minutes; a dispute tracker (formal demand → meeting → lawsuit) and challenge-deadline reminders ([`legal-communities`](../research/legal-communities.md)) | Every MVP listing in a residential building has a community status |
+| **Rule-change watch** | Alerts on council and regional rules **in progress** (drafts, public consultations), not only rules in force ([`small-owners`](../research/small-owners.md)) | Drafts tracked for the 5 MVP regions and their main cities |
 | **Legal category per unit** | Each unit tagged as tourist home, tourist apartment, seasonal or work stay, with the regional stay thresholds that move a booking between regimes; bookings that change regime are flagged ([`interviews`](../research/interviews.md)) | Thresholds verified for the 5 MVP regions |
-| **Dated evidence vault** | Licences, applications, community minutes and certificates stored with timestamps, exportable for an inspection or a dispute | Every MVP listing has its documents and dates on file |
+| **Dated evidence vault** | Licences, applications (with the date each was filed), community minutes and certificates stored with timestamps, including proof of registration before April 2025 for the transitional rule, exportable for an inspection or a dispute | Every MVP listing has its documents and dates on file |
 | **Regional rules content** | Partner-verified rules per region, with timestamps and escalation to a professional | 5 regions covered, reviewed by a legal partner |
 | **The A/B test** | Hypothesis from [`hypothesis.md`](../07-validation/hypothesis.md) | 12-week read: scale, pivot or kill |
 
@@ -65,6 +67,7 @@ Only if the bet is scaled. Ordered by dependency, not by date.
 | **GoodHost Score (private)** | Compliance data + noise/complaint integrations | Turns compliance into a visible quality signal; foundation for council work ([`05-concept/`](../05-concept/goodhost-score.md)) |
 | **Safe direct booking** (verified site, ID check, damage protection, evidence vault) | Compliance status on direct sites | The loudest host pain after compliance: platform dependence |
 | **Destination radar** | Rules database + listing data | Supports growth outside saturated cities ([`06-expansion/`](../06-expansion/emerging-destinations.md)) |
+| **Licence process tracker (Pro)** | Compliance Hub + rule-change watch | Managers handle dependent licences and rules that change mid-process ([`small-owners`](../research/small-owners.md)) |
 | **Council pilot** (Castilla y León) | GoodHost Score + responsible-growth dashboard | Performance-based caps instead of blanket bans |
 
 _____
@@ -79,3 +82,5 @@ _____
 | Hosts see the Hub as surveillance | Low activation, negative feedback in tests | Frame as protection; never auto-unpublish; host stays in control |
 | **Defensive hosts churn if tenant law changes** (owners using tourist rental as protection against tenant law, not for yield) | Faster-eviction rules in a new government's programme; Spanish churn not linked to compliance | Track churn reasons separately; offer mid-term and long-term modes so hosts can switch regime without leaving ([`interviews`](../research/interviews.md)) |
 | **Rural seasonality** makes tourist-only portfolios unprofitable | Rural occupancy concentrated in July–August | Seasonal mode switching (tourist in peak, mid-term off-peak) with compliance handled in both |
+| **Mid-term mode becomes a regulatory target** (the housing decree adds controls on seasonal and room rentals by private owners) | Decree measures confirmed in force; new seasonal-rental rules | Build mid-term mode compliant from day one; never position it as an escape route ([`small-owners`](../research/small-owners.md)) |
+| **Community conflict** (a judge can deprive the owner of use for up to 3 years) | Host logs a formal demand from the community | Staged alerts and evidence export; flag the step and point to a lawyer, never advise |

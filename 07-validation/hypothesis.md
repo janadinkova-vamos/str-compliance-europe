@@ -1,6 +1,6 @@
 # The Hypothesis · STR Europe
 
-> Module 7 · Hypothesis Builder output. A formal, data-backed hypothesis with a success metric, a guardrail and a decision window. Qualitative evidence: [`research/qualitative-reddit.md`](../research/qualitative-reddit.md).
+> Module 7 · Hypothesis Builder output. A formal, data-backed hypothesis with a success metric, a guardrail and a decision window. Qualitative evidence: [`research/qualitative-reddit.md`](../research/qualitative-reddit.md), [`research/small-owners.md`](../research/small-owners.md) and [`research/legal-communities.md`](../research/legal-communities.md).
 
 ## Slide 1 · Hypothesis statement
 
@@ -31,10 +31,13 @@ _____
 > *"The rules and regs take far more time than you think and are far more important than you think."* (veteran host, r/airbnb_hosts)
 >
 > A non-resident buyer near Barcelona expects **1–1.5 years** to get a tourist licence and can't tell which rules apply to his town (r/askspain). From the public side: *"lo necesario es prohibir a quien quiere hacerlo legal"*: the compliant host is the one who gets restricted (r/Madrid).
+>
+> A non-resident owner in A Coruña, licensed since 2019, lost his licence when the council applied a new rule retroactively. The flat now stays empty (El Mundo, Sept 2025). A Logroño manager describes licences that depend on each other and rules that change mid-process.
 
 **Quantitative**
 
 - By June 2025, of 178,856 registration applications, 16,133 had been denied and **81,446 were still pending** verification. [Housing Ministry via Bolsamanía](https://www.bolsamania.com/noticias_amp/empresas/economia--registradores-aprueban-el-83-de-solicitudes-tramitadas-para-el-registro-de-alquileres-obligatorio-en-julio--20124484.html)
+- Of 271,724 tourist-home applications to the national registry by September 2025, **57,295 (21%) were denied**, for reasons such as missing licences, community statutes or premises without a change of use. [El Mundo](https://www.elmundo.es/economia/vivienda/2025/09/29/68d252f6fdddff05588b4590.html)
 - The owners' federation Fevitur reports **64,000 legal tourist homes** left off the market by registry formalities, not by failing regional requirements. [Bolsamanía](https://www.bolsamania.com/noticias_print/empresas/economia--fevitur-critica-que-64000-viviendas-turisticas-legales-han-quedado-fuera-del-mercado-por-el-registro-estatal--21650428.html) _(industry figure, attributed)_
 - The number of tourist homes fell **10.7% year on year** to 341,001 in May 2026. [INE via Forbes](https://forbes.es/forbestravel/964774/la-vivienda-turistica-cae-un-107-y-marca-uno-de-los-mayores-retrocesos-historicos/)
 - Meanwhile, international tourists staying in rented homes grew **6.3%** (Jan–Nov 2025) vs 1.6% for hotels, so each lost listing is lost demand. [INE FRONTUR](https://www.ine.es/dyngs/Prensa/FRONTUR1125.pdf)
@@ -57,7 +60,8 @@ _____
 
 **Causes behind the friction** (why it exists, not separate frictions):
 - Regional licences and registries that differ by region and change often
-- Building communities that can approve, limit or ban tourist use
+- Building communities that can approve, limit or ban tourist use, and since April 2025 must give express approval **before** a new tourist home starts ([`legal-communities.md`](../research/legal-communities.md))
+- Municipal rules that can change retroactively or mid-process
 - Guest-registry obligations (SES.Hospedajes) with tight deadlines
 - Platform policies and registration checks that can delist a listing unilaterally
 

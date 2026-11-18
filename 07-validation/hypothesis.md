@@ -8,9 +8,9 @@
 
 **If we** give them a compliance layer that validates their regional registration, syncs it to every connected channel, submits guest-registry data automatically and alerts them before a listing is at risk,
 
-**then** the share of their listings that are compliance-complete within 30 days will rise by **at least 25%**, without slowing down onboarding.
+**then** the share of their listings that are compliance-complete within 30 days will rise by **at least 25%**, without reducing the share of listings that are live and bookable.
 
-**We'll decide** after **8 weeks (two monthly onboarding cohorts)**: scale, pivot or kill.
+**We'll decide** after **12 weeks** (two monthly cohorts plus a 30-day read): scale, pivot or kill.
 
 _____
 
@@ -65,21 +65,22 @@ _____
 
 ## Step 5 · Outcome & metrics
 
-**Strategic outcome:** Spanish hosts reach and stay compliance-complete by default, which leads to fewer compliance-driven delistings and lost bookings and, in turn, **lower churn of Spanish accounts** (retention).
+**Strategic outcome:** Spanish hosts stop discovering compliance problems after the damage is done. That means fewer compliance-driven delistings and lost bookings, which shows up as **higher retention of Spanish host accounts** (lower 90-day churn, the lagging result) and protected booking revenue per listing.
 
-**Primary success metric (leading indicator):** **+25%** in the share of Spanish listings that are compliance-complete within 30 days of exposure. A listing counts as compliance-complete when:
-1. it has a valid regional registration number,
-2. that number is synced to every connected channel, and
-3. every guest-registry (SES.Hospedajes) submission was on time.
+**Primary success metric (leading indicator + target):** **+25% relative lift in the 30-day compliance-complete rate** of Spanish listings. A listing is compliance-complete when it has:
+1. a valid regional registration number,
+2. that number synced to every connected channel, and
+3. 100% of guest-registry (SES.Hospedajes) submissions on time.
 
-_Baseline to be measured before launch; the +25% is relative to that baseline._
+_Example: baseline 60% → target 75%. Baseline measured in week 0, before launch. +25% is the minimum lift worth building for; re-check it once the baseline is known._
 
-**Guardrail metric:** **time to first published listing** for new Spanish hosts must not increase, and onboarding completion must not drop. Compliance must not become a new barrier. Secondary watch: compliance-related support tickets.
+**Guardrail metric:** **the share of Spanish listings that are live and bookable on at least one channel must not drop.** This protects the revenue base: compliance checks must never push hosts to unpublish or pause listings they could legally keep.
+_Watch metric: time to first published listing for new Spanish hosts._
 
-**Decision window:** **8 weeks, or two full monthly onboarding cohorts**, whichever comes later.
-- **Scale** if the primary metric hits +25% and the guardrail holds.
-- **Pivot** if it improves but stays under +15%, or the guardrail moves (simplify the flow, start with guest registry only).
-- **Kill** if there is no meaningful lift: compliance status alone isn't the lever; revisit platform risk and direct booking.
+**Decision window:** **12 weeks**, made up of 8 weeks of enrolment (two monthly cohorts) plus 30 days for the second cohort to reach its measurement point.
+- **Scale:** ≥ +25% and the guardrail holds.
+- **Pivot:** +10% to +25%, or the watch metric worsens. Simplify, starting with guest-registry automation only.
+- **Kill:** under +10%. Compliance visibility isn't the lever, so revisit platform risk and direct booking.
 
 _____
 
@@ -89,6 +90,6 @@ _____
 |---|---|
 | **Bet type** | Optimizing the existing → retention |
 | **Evidence** | Hosts say rules take more time than expected and licences take 1–1.5 years; 81,446 applications pending and 64,000 legal homes blocked by formalities |
-| **Success metric** | +25% compliance-complete Spanish listings within 30 days |
-| **Guardrail** | Time to first published listing must not increase |
-| **Decision window** | 8 weeks / two monthly cohorts → scale, pivot or kill |
+| **Success metric** | +25% relative lift in 30-day compliance-complete rate (leading); 90-day churn of Spanish accounts (lagging) |
+| **Guardrail** | Share of Spanish listings live and bookable must not drop (watch: time to first published listing) |
+| **Decision window** | 12 weeks (8 enrolment + 30-day read) → scale, pivot or kill |

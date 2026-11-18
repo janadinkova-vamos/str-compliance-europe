@@ -2,6 +2,8 @@
 
 > Module 8 · Outcome-based roadmap. Now / Next / Later, with the outcome each stage must prove and the gate that unlocks the next one. No fixed feature dates: each stage earns the next.
 
+**Start here:** [`what-comes-next.md`](what-comes-next.md) explains where this case stops, what the first survey challenged, and the four validation gates that make up NOW.
+
 ## North Star
 
 **Compliant active listings:** listings that, in the month, had a valid registration on every channel, submitted all guest-registry entries on time, and had no unresolved compliance alert. Defined in [`07-validation/validation-plan.md`](../07-validation/validation-plan.md).
@@ -13,17 +15,17 @@ _____
 | | **NOW** · Q1 2027 | **NEXT** · Q2 2027 | **LATER** · H2 2027 |
 |---|---|---|---|
 | **Theme** | Prove the pain, ship the quick win | Test the bet | Expand and defend |
-| **Outcome to prove** | Compliance is the #1 pain for Spain-based and non-resident hosts | Compliance visibility lifts the 30-day compliance-complete rate by ≥25% | Compliance becomes a retention moat across Iberia |
+| **Outcome to prove** | The pain is felt, predicts churn and has a real Aha ([4 gates](what-comes-next.md)) | Compliance visibility lifts the 30-day compliance-complete rate by ≥25% | Compliance becomes a retention moat across Iberia |
 | **Key initiatives** | Host interviews · baseline measurement · prototype test · guest-registry automation beta | Compliance Hub MVP (5 regions) · A/B test from [`hypothesis.md`](../07-validation/hypothesis.md) | Portugal · GoodHost Score (private) · safe direct booking · destination radar · council pilot |
 | **Leading metric** | Interview pain rank; registry-beta activation within 30 days | 30-day compliance-complete rate | Compliant active listings (North Star) |
 | **Lagging metric** | Registry-related support tickets | 90-day churn of Spanish accounts | 12-month retention of Iberian accounts; revenue per listing |
-| **Gate to move on** | Compliance ranks top 2 in ≥60% of interviews **and** registry beta ≥40% activation | Hypothesis decision: **scale / pivot / kill** at week 12 | Scale only where the Spain result holds |
+| **Gate to move on** | Validation gates 1–3 passed ([`what-comes-next`](what-comes-next.md)) **and** registry beta ≥40% activation | Hypothesis decision: **scale / pivot / kill** at week 12 | Scale only where the Spain result holds |
 
 _____
 
 ## NOW · Q1 2027 · Prove the pain, ship the quick win
 
-**Why first:** the qualitative research shows compliance is the #1 pain in Spain but not for hosts in general ([`research/qualitative-reddit.md`](../research/qualitative-reddit.md)). We confirm it with real Spanish hosts before building the bigger bet.
+**Why first:** the qualitative research shows compliance is the #1 pain in Spain but not for hosts in general ([`research/qualitative-reddit.md`](../research/qualitative-reddit.md)), and the first host survey suggests it is a latent rather than a felt pain. We validate it in four gates before building the bigger bet: see [`what-comes-next.md`](what-comes-next.md).
 
 | Initiative | What | Done when |
 |---|---|---|

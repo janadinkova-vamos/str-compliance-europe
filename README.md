@@ -23,7 +23,7 @@ _Independent work. Not affiliated with or endorsed by any company mentioned. Mar
 | 5 | **The Concept** (GoodHost Score) | host score + cap-and-waitlist engine for saturated areas · AI regulatory watch with human approval | [`05-concept/`](05-concept/goodhost-score.md) · [`AI watch`](05-concept/ai-regulatory-watch.md) |
 | 6 | **The Expansion** (Emerging destinations) | growth outside saturated cities, aligned with Spain Tourism 2030 | [`06-expansion/`](06-expansion/emerging-destinations.md) |
 | 7 | **The Validation** (Discovery & pilot) | formal hypothesis, interviews, data pulls, pilot design and success metrics | [`07-validation/`](07-validation/hypothesis.md) |
-| 8 | **The Roadmap** (Now / Next / Later) | outcome-based roadmap with decision gates | [`08-roadmap/`](08-roadmap/roadmap.md) |
+| 8 | **The Roadmap** (Now / Next / Later) | outcome-based roadmap with decision gates · where this case stops and the next 8 weeks of validation | [`08-roadmap/`](08-roadmap/roadmap.md) · [`what comes next`](08-roadmap/what-comes-next.md) |
 | 9 | **The Go-To-Market** (Positioning & launch) | cost of inaction, positioning, messaging, pricing & packaging, launch checklist | [`09-go-to-market/`](09-go-to-market/positioning.md) · [`checklist`](09-go-to-market/launch-checklist.md) |
 | P | **The Prototype** (Lovable) | Compliance Hub prototype prompt + link | [`prototype/`](prototype/lovable-prompt.md) |
 | R | **Research** (Qualitative) | Reddit host and resident voices, coded and counted · two operator interviews · small-owner voices from the press · legal evidence on building communities | [`research/`](research/qualitative-reddit.md) · [`interviews`](research/interviews.md) · [`small owners`](research/small-owners.md) · [`communities`](research/legal-communities.md) |
@@ -58,6 +58,7 @@ str-compliance-europe/
 ├── 07-validation/hypothesis.md              ← M7: formal hypothesis (Hypothesis Builder)
 ├── 07-validation/validation-plan.md         ← M7: discovery, pilot and metrics
 ├── 08-roadmap/roadmap.md                    ← M8: Now / Next / Later roadmap
+├── 08-roadmap/what-comes-next.md          ← M8: where the case stops + validation gates
 ├── 09-go-to-market/positioning.md          ← M9: positioning, messaging, pricing
 ├── 09-go-to-market/launch-checklist.md     ← M9: launch checklist (+ .xlsx)
 ├── prototype/lovable-prompt.md              ← Compliance Hub prototype (Lovable)

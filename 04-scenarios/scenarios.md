@@ -16,10 +16,10 @@ _Neutral analysis of stated party positions as of 18 November 2026. Not a foreca
 
 | Area | Likely direction | Effect on hosts |
 |---|---|---|
-| 21% VAT | Shelved | Relief |
+| 10% VAT on tourist rentals (live from 1 Dec 2026; 21% was dropped from the draft) | Frozen or reversed | Relief |
 | Consumer-ministry enforcement | Softer | Lower fine risk for platforms |
 | Housing Law / rent caps | Repealed | Some owners return to long-term renting |
-| Seasonal-let regulation | Dropped | Mid-term stays viable longer |
+| Seasonal-let regulation (live since Oct 2026: real, provable cause) | Softened | Mid-term stays viable longer |
 | Regional and city rules | Unchanged | No relief where it hurts most |
 
 **The Portugal pattern.** National rules relax, power moves to municipalities, local rules tighten. Build for that.
@@ -35,7 +35,7 @@ Parity bundles five choices: tax, safety standards, land use, operations, regist
 
 **Evidence on effects.** After New York's enforcement, hotel rates rose an estimated $14–$19 a night. [Source](https://www.hotelmanagement-network.com/features/hotels-vs-short-term-rentals-in-paris-barcelona-new-york-and-london/) Whether housing improves is disputed.
 
-**Tax detail.** True parity is 10% VAT with deductions; 21% goes beyond parity. Even the hotel federation asked to keep current accommodation VAT. [Source](https://cehat.com/wp-content/uploads/2024/11/13.11.2024-CEHAT-advierte-sobre-los-riesgos-de-una-subida-del-IVA-al-21-en-las-viviendas-turisticas.pdf)
+**Tax detail.** True parity is 10% VAT with deductions, and that is where the housing decree landed: tourist rentals pay 10% from 1 December 2026, after a 21% draft was dropped. The hotel federation had warned that 21% would go beyond parity. [Source](https://cehat.com/wp-content/uploads/2024/11/13.11.2024-CEHAT-advierte-sobre-los-riesgos-de-una-subida-del-IVA-al-21-en-las-viviendas-turisticas.pdf)
 
 _____
 

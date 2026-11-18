@@ -27,7 +27,7 @@ _____
 
 | Persona | Top pains |
 |---|---|
-| **Small host (1–5 listings)** | Which number is valid now; fear of surprise delisting; building votes and surcharges; manual guest-registry reporting; possible VAT; stigma |
+| **Small host (1–5 listings)** | Which number is valid now; fear of surprise delisting; building votes and surcharges; manual guest-registry reporting; 10% VAT from December 2026 and possible IBI surcharges; stigma |
 | **Property manager (10–500 listings)** | Tracking licence status across many municipalities; one cancelled licence = one lost owner; no portfolio-risk view; pressure to move to mid-term rentals |
 | **Foreign owner** | Non-resident tax filing; distance from local rules; exposure to proposed taxes on non-EU buyers |
 | **Guest** | Listings disappearing after booking; longer check-in; rising taxes; off-platform scams |

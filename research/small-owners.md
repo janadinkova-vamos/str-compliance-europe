@@ -32,9 +32,19 @@ Explainer on how the Government's housing decree would affect owners of one or t
 1. **Extraordinary rental extension:** tenants whose contracts end before 30 June 2028 could ask for up to two more years on the same terms.
 2. **Tax breaks** for owners who lower the rent.
 3. **More control of seasonal and room rentals**, including private owners who let for months to students or posted workers.
-4. **21% VAT on tourist homes** and stricter conditions for advertising them on platforms.
+4. **21% VAT on tourist homes** and stricter conditions for advertising them on platforms (superseded, see below).
 
-_Status to verify: a later headline on the same page says the Standing Committee of Congress saved the anti-eviction decree and the rental extension. Check which measures are in force before citing any of them._
+**Verified status (18 November 2026).** The 29 September decree (RDL 26/2026) was repealed by Congress on 2 October. The Government re-approved the measures on 6 October in two decrees. On 12 November the Standing Committee of Congress **validated RDL 29/2026** (35–34) and **repealed RDL 28/2026** (automatic, open-ended rental extension). What is in force:
+
+| Measure | Status |
+|---|---|
+| VAT on tourist rentals | **10%, not 21%**, from 1 December 2026 |
+| Seasonal and room rentals | In force since 8 October 2026: a real, provable cause is required |
+| Extraordinary extension up to 2 years | In force, for compulsory extensions ending before 31 December 2028 |
+| IBI surcharge on tourist homes | New: up to 100–150% in stressed areas, if the council applies it |
+| Automatic open-ended extension | Repealed |
+
+It is a validated decree, not a consolidated law: the government formed after the 29 November election can amend it. Sources: [Brains RE](https://brainsre.news/?p=318384), [Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/eu_es/iva/novedades-iva/novedades-normativa-2026.html), [El Derecho](https://elderecho.com/?p=492029).
 
 _____
 

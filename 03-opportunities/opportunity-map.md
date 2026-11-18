@@ -22,7 +22,7 @@ _____
 |---|---|---|---|---|---|
 | B. Guest registry | High, daily | Low–Med | Retention + add-on | None | **1** |
 | A. Compliance layer | Very high | High | Add-on per listing | None | **2** (MVP: 5 regions) |
-| C. Tax / VAT | High (foreign owners) | Medium | Partner revenue share | VAT depends on result | **3** |
+| C. Tax / VAT | High (foreign owners) | Medium | Partner revenue share | 10% VAT live since 1 Dec 2026; could change after the election | **3** |
 | E. Neighbour kit | Medium–High | Low | Hardware partners | None | 4 |
 | D. Mid-term mode | Medium | Medium | Expands market | Rules could tighten | 5 |
 | F. Data | Strategic | Medium | Indirect | None | Parallel |
@@ -36,7 +36,7 @@ _____
 - **Not building demand generation.** Platforms out-spend any host tool on marketing; we win on operations and compliance.
 - **Not giving legal advice.** Rules content is partner-verified (law firms, gestorías), timestamped, with escalation to a professional.
 - **Not positioning anything as a way around regulation.** "Compliance made easy" is both the value proposition and what protects us with platforms and regulators.
-- **Not building the VAT module ahead of a decision.** Behind a feature flag until the law passes.
+- **Not building an in-house tax engine.** 10% VAT on tourist rentals is live from 1 December 2026, so VAT-ready invoicing goes in through partners, behind a feature flag in case the next government changes the rate.
 - **Not treating Barcelona as a growth market.** It's a "move to mid-term or exit" use case given the 2028 phase-out.
 
 _____

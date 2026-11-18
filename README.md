@@ -4,7 +4,7 @@
 
 Jana Alexandrova · Product case study · November 2026
 
-**Presentation:** _pitch.html (coming soon)_ · **Prototype:** [Compliance Hub on Lovable](https://staywise-spain-rental-checks.lovable.app)
+**Presentation:** [PDF](presentation.pdf) · [pitch.html](pitch.html) (download and open in a browser) · **Prototype:** [Compliance Hub on Lovable](https://staywise-spain-rental-checks.lovable.app)
 
 This repo is a product case study on the European short-term rental (STR) market, starting with Spain and Portugal, written from the point of view of a Senior Product Manager at a host-software company. One folder per module; this README is **The Story** that ties them together.
 
@@ -55,6 +55,8 @@ I see a similar opportunity at Hospitable. A host shouldn't have to spend Sunday
 ```
 str-compliance-europe/
 ├── README.md                                ← this dashboard + The Story
+├── presentation.pdf                         ← the 21-slide presentation (PDF)
+├── pitch.html                               ← the same presentation, self-contained HTML
 ├── 01-market/market-landscape.md            ← M1: regulatory landscape
 ├── 02-problem/pain-points.md                ← M2: pain points by persona
 ├── 03-opportunities/opportunity-map.md      ← M3: opportunities + prioritisation

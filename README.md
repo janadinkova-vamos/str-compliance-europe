@@ -10,6 +10,8 @@ This repo is a product case study on the European short-term rental (STR) market
 
 _Independent work. Not affiliated with or endorsed by any company mentioned. Market facts are as of November 2026 and linked to their sources in each module._
 
+> **Spain update:** Supreme Court ruling 620/2026 (May 2026) annulled the national short-term rental registry (NRUA). Compliance now sits in four layers: 17 regional regimes, city rules and moratoriums, and building approval by a 3/5 majority (4/5 in Catalonia). See [`01-market/market-landscape.md`](01-market/market-landscape.md).
+
 ---
 
 ## Deliverables at a glance
